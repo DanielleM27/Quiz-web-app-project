@@ -1,2 +1,2 @@
 # Quiz-web-app-project
-A quiz web app self project created with HTML, CSS and JavaScript
+A quiz web app project created with HTML, CSS and JavaScript
